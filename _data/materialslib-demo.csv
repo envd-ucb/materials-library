@@ -1,0 +1,5 @@
+objectid,filename,title,format,youtubeid,vimeoid,latitude,longitude,date,subject,location,creator,description,source,identifier,type,language,rights,rightsstatement
+ml001,wood.jpg,Wooden Floor,image/jpg,,,40.016869,-105.279617,4/19/2025,wood,"Boulder, Colorado","Images, Google",Light brown wooden flooring with an exquisite coating.,,,wood,eng,,
+ml002,tree.jpg,Tree,image/jpg,,,28.70406,77.102493,2/19/1993,Tree,"Delhi, India",,"A large tree, purple leaves in Delhi, India.",,,wood; leaf,hin,,
+ml003,bppp.jpg,Bioplastic Plant Pot,image/jpg,,,50.110924,8.682127,12/27/2002,mud; bioplastic,"Frankfurt, Germany",,"Bioplastic plant pot, manufactured by locals using local materials. ",,,mud; bioplastic,deu,,
+,,,,,,,,,,,,,,,,,,
