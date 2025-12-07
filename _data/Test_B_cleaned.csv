@@ -1,5 +1,5 @@
 objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-1.05.09,,,,Reclaimed Barn Wood - Milled Silver,Architectural Systems Inc. ,,"""Architectural Systems, INC - Spec ID#: WPCLB027 - Color: Milled Silver - Thickness: 5/8"" - Width: RW 4' 1/2"" - 10' 1/2"" - Lenth: RL 4'-12"" - Species: Mixed Species - Finish: Prefinished""",Architecture,,,,,,,,,,
+1.05.09,,,,Reclaimed Barn Wood - Milled Silver,Architectural Systems Inc. ,,"Architectural Systems, INC - Spec ID#: WPCLB027 - Color: Milled Silver - Thickness: 5/8"" - Width: RW 4' 1/2"" - 10' 1/2"" - Lenth: RL 4'-12"" - Species: Mixed Species - Finish: Prefinished",Architecture,,,,,,,,,,
 1.05.10,,,,Reclaimed Barn Wood - Weathered Nickel,Architectural Systems Inc. ,,"""Architectural Systems, INC - Spec ID#: WPCLB025 - Color: Wreather Nickel - Thickness: 5/8"" - Width: RW 4' 1/2"" - 10' 1/2"" - Lenth: RL 4'-12"" - Species: Mixed Species - Finish: Prefinished""",Architecture,,,,,,,,,,
 1.05.11,,,,Reclaimmed Barn Wood - Rustic White ,Architectural Systems Inc. ,,"Spec ID#: WPCLB024 -- Color: Rustic White -- Thichness: 5/8"" -- RW 4 1/2"" - 10 1/2"" -- Length: RL 4'-12' -- Species: Mixed Species -- Finish: Unfinished with color wash ",Architecture,,,,,wood,wood panneling,,,,
 1.05.12,,,,WOODWORKS Ceilings -swatch,Armstrong,,"""Include: Bamboo - Patins, Native (premium option) - Natural Variation - Beech, Maple, Light Cherry, Dark Cherry - Constants - Maple, Cherry, Walnut - Custom Veneers also avaliable Perforated veneers included Additional actual thickness samples included - armstrong.com/woodworks""",Architecture,,,,,wood,wood panneling ,,,,
@@ -132,4 +132,5 @@ objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,locat
 ,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,
 02.03.10,,,,Meltdown Glass Art & Design,Meltdown Glass Art & Design,,"www.meltdownglass.com...800-845-6221...glass: 3/8"" clear...texture MD-207 brushed ",Architecture; Product Design,,,,,Glass,Glass units,,,,
+
 
