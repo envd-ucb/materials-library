@@ -942,7 +942,7 @@ objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,locat
 3.08.08,,,,Trenwyth Trendstone Sample Box,Trenwyth,,Bradley.,Architecture; Landscape Architecture,,,,,Stone,Stone Composites,,,,
 3.08.09,,,,Trenwyth Trendstone Sample Box - Plus,Trenwyth,,"Papago Red;San Mateo Rose;Autumn;Red Rock;Modesto;Berkeley;Newport;Beverly Spice;Anthem Red;Plum;Riverside;Walnut Creek.",Architecture; Landscape Architecture,,,,,Stone,Stone Composites,,,,
 3.08.10,,,,Trenwyth Trendstone Sample Box - Arizona Group B,Trenwyth,,"Monterey Stone;Buff;Hopi Sand;Black Canyon.",Architecture; Landscape Architecture,,,,,Stone,Stone Composites,,,,
-3.08.11,,,,Trenwyth Trendstone Sample Box - Trenwyth, Arizona	Hanover Architectural Products		#A80009;#A80033;#A80011;#A80012;#A80014;#A80016;#A80017;#A80018;#A80020	Architecture; Landscape Architecture					Stone	Stone Composites					
+3.08.11,,,,"Trenwyth Trendstone Sample Box - Trenwyth, Arizona",Hanover Architectural Products,,"#A80009;#A80033;#A80011;#A80012;#A80014;#A80016;#A80017;#A80018;#A80020.",Architecture; Landscape Architecture,,,,,Stone,Stone Composites,,,,
 3.08.12,,,,Hanover Asphalt Block Sample Box,NBK,,"Textures: Wire Struck, Fine Combed, Medium Combed; Colors: 1.01, 2.01, 3.01, 4.01, 5.01, 6.01, 7.01, 1.02, 6.02, 7.02, 7.03, 7.06, 9.04, 9.05, 9.09, 9.10, 9.11, 8.02.",Architecture; Landscape Architecture,,,,,Stone,Stone Composites,,,,
 3.09.02,,,,"Unlabeled items removed;and sacks removed - nonfunctional;lithochrome chemstain removed - nonfunctional;stresscrete removed-nonfunctional;sage removed- nonfunctional;QCP Concrete samples removed - dated samples;allied molded products removed- products DNE currently",Formglas Products LTD,,98144.,Architecture; Landscape Architecture,,,,,Stone,Concrete,,,,
 3.09.03,,,,Formglas Concreet - Concrete Grey (2 copies),Formglas Products LTD,,98168.,Architecture; Landscape Architecture,,,,,Stone,Concrete,,,,
@@ -1120,6 +1120,7 @@ objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,locat
 04.08.01,,,,Cambridge Architectural Pelican Weave,Cambridge Architectural,,"'Pelican' stainless steel mesh weave, flexible- articulating.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
 04.08.02,,,,Lumsden Custom Mesh,Lumsden Custom Mesh,,"'Design 14' Stainless steel mesh, tighter weave, flexible-articulating.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
 04.08.03,,,,Cambridge Architectural Stripe Weave,Cambridge Architectural,,"'Stripe' pattern stainless steel mesh weave, multiple loop sizes, stainless steel, flexible-articulating.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+
 
 
 
