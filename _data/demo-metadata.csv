@@ -883,7 +883,6 @@ objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,locat
 3.05.13,,,,4001 Fresh Concrete,Caesarstone,,Beige marble.,Architecture,,,,,Stone,Quartz Composites,,,,
 3.05.14,,,,5220 Dreamy Marfil,Durat,,"012;031;054;062;100;160;182;221;254;260;291;364;391;441;470;540;610;650;704;730;750;790.",Architecture,,,,,Stone,Recycled Composite,,,,
 3.05.15,,,,Durat Sample Collection - Flecks,Durat,,"0300;0400;0700;0900;1800;1900;2100;2500;2600;2700;2800;3600;3700;4200;4300;4700;6400;6500;7300;7600;8100.",Architecture,,,,,Stone,Recycled Composite,,,,
-
 3.06.02,,,,"Janus et Cie samples removed - missing functional link; unlabeled tile grid with graphics removed - no identifiers",Krion,,6201.,Architecture; Product Design,,,,,Stone,Stone Composite,,,,
 3.06.03,,,,Porcelanosa Solid Surface - Colors Lux - Imperial Yellow,Krion,,6301.,Architecture; Product Design,,,,,Stone,Stone Composite,,,,
 3.06.04,,,,Porcelanosa Solid Surface - Colors Lux - Fruit,Krion,,6501.,Architecture; Product Design,,,,,Stone,Stone Composite,,,,
@@ -1124,8 +1123,36 @@ objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,locat
 04.08.02,,,,Lumsden Custom Mesh,Lumsden Custom Mesh,,"'Design 14' Stainless steel mesh, tighter weave, flexible-articulating.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
 04.08.03,,,,Cambridge Architectural Stripe Weave,Cambridge Architectural,,"'Stripe' pattern stainless steel mesh weave, multiple loop sizes, stainless steel, flexible-articulating.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
 
-
-
-
-
+04.08.04,,,,Cascade Coil Drapery,Cascade Coil,,"Bag of varying mesh samples includes: (Finish: Copper, Wire: 20 Ga. Steel, Weave: 1/8 in)(Finish: Grape Bronze, Wire: 15 Ga. Aluminum, Weave: 1/2 in)(Finish: Nickel Plated, Wire: 19.5 Ga. Steel, Weave: 3/16 in)(Finish: Gunmetal Black, Wire: 18 Ga. Aluminum, Weave: 3/16 in)(Finish: Satin Gold, Wire: q5 Ga. Aluminum, Weave: 3/8 in)(Finish: Brite Pearl Gray, 18 Ga. Aluminum, 3/16 in)(Finish: Antique Bronze, Wire: 18 Ga. Aluminum, Weave 3/16 in)(Finish: Statin Bronze, Wire:19.5 Ga. Steel, Weave 1/4 in)(Finish: Sprayed Alumabrite, Wire: 19.5 Ga. Steel, Weave: 1/4 in)(Finish: Brightened, Wire: 18 Ga. Aluminum, Weave: 5/16 in)(Finish: Chinese Red, Wire: 19 Ga. Nylon/ Galv. Steel, Weave: 3/16 in)(Finish: Silver Tin Plated, Wire: 21 Ga. Steel, Weave: 3/32 in).",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+04.08.05,,,,Cascade Coil Drapery,Cascade Coil,,"Brite Nickel", mesh weave, flexible-articulating, 1/4-19.5 Ga.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+04.08.06,,,,Cascade Coil Drapery,Cascade Coil,,"duplicate 04.08.05.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+04.08.07,,,,Cascade Coil Drapery,Cascade Coil,,"'Satin Bronze', mesh weave, 1/4-191.2 Ga. Steel.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+04.08.08,,,,Cascade Coil Drapery,Cascade Coil,,"'Copper', 1/2-15 ga. Aluminum-Copper.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+04.08.09,,,,Cascade Coil Drapery,Cascade Coil,,"Weave: 3/8 in, Wire: 15 Ga. Aluminum, Finish : Satin Gold.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+04.08.10,,,,Cascade Coil Drapery,Cascade Coil,,"'Antique Copper', 1/8-20 Ga,  Steel.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+04.08.11,,,,Cascade Coil Drapery,Cascade Coil,,"3/16-18 Ga, Aluminum, Brite Pearl-Gray.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+04.08.12,,,,Cascade Coil Drapery,Cascade Coil,,"1/4-18 Ga. , Aluminum-Gold.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+04.08.13,,,,Cascade Coil Drapery,Cascade Coil,,"5/16-18 Ga, Aluminum-Brightened.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+04.08.14,,,,Cascade Coil Drapery,Cascade Coil,,"3/16-18 Ga. Aluminum-Gunmetal Black.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+04.08.15,,,,Cascade Coil Drapery,Cascade Coil,,"1/8-20 GA, Steel- Antique Copper.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+04.08.16,,,,Cascade Coil Drapery,Cascade Coil,,"3/16-18 Ga, Aluminum, Antique Bronze.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+04.08.17,,,,Cascade Coil Drapery,Cascade Coil,,"3/8-15 Ga. Aluminum-red.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+04.08.18,,,,Cascade Coil Drapery,Cascade Coil,,"Weave: 3/32 in, Wire: 21 Ga. Steel, Finish: Silver Tin-Plated.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+04.08.19,,,,Cascade Coil Drapery,Cascade Coil,,"3/16-18 Ga. Aluminum-Antique Bronze.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+04.08.20,,,,Cambridge Architectural Mesh Weave,Cambridge Architectural,,"'Shade'- aluminum mesh.",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+04.08.21,,,,Sanska by Todd Berryman															
+04.08.22,,,,Johnson Screens Aluminum Screen,Johnson Screens,,"Wire: 93 Vee, Rod: 156, Slot: .125in, Centers: 1.5in, Finish: Bead Blast.",Architecture; Product Design,,,,,Metals,Metal Screen,,,,
+04.08.23,,,,Cambridge Architectural,Cambridge Architectural,,"'Plank', rigid aluminum mesh.",Architecture; Product Design,,,,,Metals,Metal Screen,,,,
+04.08.24,,,,"Wdavis, LLC, 'Whiting Davis' lot of mesh samples","Wdavis, LLC",,"Pack containing multiple meshes, including: (No. 9 Stainless Steel)(No. 71BR-Platinum)(NO. 70 Brass-Black)(NO Stainless Steel)(NO.91AL-White)(No. 91Al-Copper Color Varie)(No. 91AL-Gold)(No. 70-Bronze, Color Varies)(No. 71 Brass-White)(No. 91AL- Bronze-)(No. 70 Brass-Gunmetal)(No. 91AL- Gunmetal)(No. 70 Brass-Platinum)(No. 70 Brass-Gold).",Architecture; Product Design,,,,,Metals,Mesh Weave,,,,
+04.09.01,,,,Sola felt by 3form Goods,3Form,,"Solafelt swatch ring containing colors: Zinc, Nickel, Cashmere, Burnt Umber, Ore, Dark Gray, Cast, Ebony.",Architecture; Product Design,,,,,Felt,Acoustic Felt,,,,
+04.09.02,,,,Layer Cast LightCast by LightBlocks,LightBlocks,,"Finish: highwear, renewable matte finish and non renewable gloss finish. Color: 400 standard colors. Application: Table tops, countertops, fixtures. Thickness: 1in, 1 1/2in, 2in. Sheet size: 4ftx8ft, 5ftx10ft standard. Permanently cast color layer integrated into sheet provides depth and clarity, while also improving durability. Recyclable.",Product Design,,,,,Acrylic,"Matte, Colored, Translucent Acrylic Sheets",,,,
+04.09.03,,,,And/or rubber cork by Capri Cork,CapriCork,,"Color: Gold. A unique rubber cork composite material for floor and wall covering applications. Suitable for a variety of installations in retail, healthcare, sports facilities, corporate, recreation, education, libraries, churches, daycare, eldercare, hospitality, and industrial settings. Sound absorbing. High tear resistance. Contains recycled content (both pre- and post- consumer).",Product Design,,,,,Cork,Colored Cork Sheets,,,,
+04.09.04,,,,Alpolic Metal Composite Materials,ALPOLIC,,"Finished metal sheeting, Walnut wood grain detailing, Lot# 011720/Stock.",Architecture; Product Design,,,,,Metal,Finished Metal Sheeting,,,,
+04.09.05,,,,Alpolic Metal Composite Materials,ALPOLIC,,"Finished metal sheeting, Timber Maple wood grain detailing, Lot# 022620/Stock.",Architecture; Product Design,,,,,Metal,Finished Metal Sheeting,,,,
+04.09.06,,,,Steelcraft Grain-Tech Stainable Wood Grain Steel,SteelCraft,,"Metal sheeting with stainable wood like finish- Mahogany.",Architecture; Product Design,,,,,Metal,Finished Metal Sheeting,,,,
+04.09.07,,,,Moz Designs Finished Metal Sheeting,Moz Designs,,"Metal sheeting with brushed, chromatic finish (Blendz #425), bamboo pattern, PolyCoat-Gloss finish.",Architecture; Product Design,,,,,Metal,Finished Metal Sheeting,,,,
+04.09.08,,,,HuisVeendam BioLaminates,HuisVeendam Ltd.,,"A natural fiber composite panel produced in the Netherlands using organic fibers and bounded with a potato starch binder. Suitable for indoor use in dry areas. Flooring is not a recommended application.",Architecture; Product Design,,,,,Laminate Pannel,Biolaminate Paneling,,,,
+04.09.09,,,,Moz Designs Finished Metal Sheeting,Moz Designs,,"Metal sheeting with brushed, chromatic finish (Moz Blends #324), clouds  pattern, PolyCoat-Gloss finish.",Architecture; Product Design,,,,,Metal,Finished Metal Sheeting,,,,
+04.09.10,,,,Pixels from USG,USG,,"Perforated metal sheeting, creating an image effect best viewed from mild distance.",Architecture; Product Design,,,,,Metal,Finished Metal Sheeting,,,,
+04.09.11,,,,Pixels from USG,USG,,"Perforated metal sheeting, creating an image effect best viewed from mild distance.",Architecture; Product Design,,,,,Metal,Finished Metal Sheeting,,,,
 
