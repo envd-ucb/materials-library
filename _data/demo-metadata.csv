@@ -1351,7 +1351,7 @@ objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,locat
 08.03.01,,,,Rigidized Metal Corp. Decorative Bronze Sheet,Rigidized Metals,,"Decorative Metal Sheeting. Pattern: 1-HM, Material: Bronze, Finish: Mica.",Architecture; Product Design,,,,,Metal,Decorative Bronze Sheet,,,,
 08.03.02,,,,Lumsden Custom Mesh,Lumsden,,"Mesh designed to be used in conveyor belts. 'Design 9- Stainless Steel'.",Architecture; Product Design,,,,,Mesh,Conveyorbelt Mesh,,,,
 08.03.03,,,,Rulon International Panel Grille,Rulon International,,"Wood Grille designed for fencing and railing applications. System: Panel Grile: PG 5-12-37 Dowel. Species: Red Oak, Finish: Rulon Crème.",Architecture; Landscape Architecture,,,,,Panel Grille,Wood Panel Grille,,,,
-08.03.04,,,,Decoustics Dowel Grille,Decoustics,,"Wood Grille designed for fencing and railing applications. Beech veneer finish. 	Architecture; Landscape Architecture					Panel Grille	Wood Panel Grille,,,,
+08.03.04,,,,Decoustics Dowel Grille,Decoustics,,"Wood Grille designed for fencing and railing applications. Beech veneer finish.",Architecture; Landscape Architecture,,,,,Panel Grille,Wood Panel Grille,,,,
 08.04.01,,,,Maya Romanoff Wood Veneer Wallcovering Swatch,Maya Romanoff,,"Swatch containing offered wood veneer wall coverings. Almost all products listed are handmade, giving them a unique appearance.",Architecture,,,,,Wall Covering,Handmaid Wall Coverings,,,,
 08.04.02,,,,Maya Romanoff Handmade Wallcovering Swatch,Maya Romanoff,,"Swatch containing offered hand printed or woven wall coverings. Almost all products listed are handmade, giving them a unique appearance. Note: swatch contains products made from organic material.",Architecture,,,,,Wall Covering,Handmaid Wall Coverings,,,,
 08.04.03,,,,Maya Romanoff Wallcovering Swatch,Maya Romanoff,,"Swatch containing offered wall coverings. Almost all products listed are handmade, giving them a unique appearance. Note: swatch contains products made from organic material.",Architecture,,,,,Wall Covering,Handmaid Wall Coverings,,,,
@@ -1389,6 +1389,7 @@ objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,locat
 08.08.05,,,,ACG Interpane Glass Window Pane,ACG Interpane,,"Largescale glass window plane sample. Ipasol shine 59/32. Composition 6-12-6 clearlite.",Architecture,,,,,Window,Glass Window Pane,,,,
 08.09.01,,,,ACG Interpane Glass Window Pane,ACG Interpane,,"Largescale glass window plane sample. Iplus Top 1.1. Composition 4/12/4. Solar FactorL 64%.",Architecture,,,,,Window,Glass Window Pane,,,,
 08.09.02,,,,ACG Interpane Glass Window Pane,ACG Interpane,,"Largescale glass window plane sample. Ipasol bright neutral. Composition 6/12/4. Solar Factor: 46%.",Architecture,,,,,Window,Glass Window Pane,,,,
+
 
 
 
