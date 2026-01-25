@@ -1266,7 +1266,7 @@ objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,locat
 06.03.03,,,,Pantone Formula Guide Solid Coated,Pantone,,"Swatch of colors for the intended use of printing applications. One would use this as a guide to ensure color accuracy on printed media such as magazines, labels, and boards.",Graphic Design; Product Design,,,,,Ink Swatch,Printed Ink Swatch,,,,
 06.03.04,,,,Pantone Formula Guide Solid Uncoated,Pantone,,"Swatch of colors for the intended use of printing applications. One would use this as a guide to ensure color accuracy on printed media such as magazines, labels, and boards.",Graphic Design; Product Design,,,,,Ink Swatch,Printed Ink Swatch,,,,
 06.03.05,,,,Corques Liquid Lino Sample Set,Duracryl,,"Linoleum sample set for indoor use. Contains recycled content.",Architecture,,,,,Linoleum,Linoleum Flooring,,,,
-06.03.06,,,,Cabot Solid Floor Stain Swatch,Cabot,,"Swatch of solid color wood stains.",Architecture; Landscape Architecture,,,,,Stain	Wood Stain Swatch,,,,
+06.03.06,,,,Cabot Solid Floor Stain Swatch,Cabot,,"Swatch of solid color wood stains.",Architecture; Landscape Architecture,,,,,Stain,Wood Stain Swatch,,,,
 06.04.01,,,,AgIC inc. Flexible Heater,AgIC inc.,,"Printed, flexible, and portable thin-film heaters that can evenly and efficiently warm surfaces. The heating element circuit is typically printed on PET polyester, which acts as an active heat source and is cost-effective compared to a heating system with etched foil or wire elements.",Architecture; Landscape Architecture; Product Design,,,,,Heating,Flexible Electronic Heating,,,,
 06.04.02,,,,BSG Glass Klavish Fabric,BSG Glass,,"Fabric backed with an optically clear polymer sheet for use as decorative film. Unlike traditional decorative films, these films use fabrics and not print to provide the ornate element to the substrate.",Architecture; Product Design,,,,,Fabric,Decorative Fabric,,,,
 06.04.03,,,,Gage Vertical Surfacing Sample,Gage Vertical Surfacing,,"Ribbed vertical surfacing constructed from steel, plastic and MDF. Title: GC101 (SS/BLK).",Architecture,,,,,MDF Surfacing,Decorative MDF Surfacing,,,,
@@ -1389,6 +1389,7 @@ objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,locat
 08.08.05,,,,ACG Interpane Glass Window Pane,ACG Interpane,,"Largescale glass window plane sample. Ipasol shine 59/32. Composition 6-12-6 clearlite.",Architecture,,,,,Window,Glass Window Pane,,,,
 08.09.01,,,,ACG Interpane Glass Window Pane,ACG Interpane,,"Largescale glass window plane sample. Iplus Top 1.1. Composition 4/12/4. Solar FactorL 64%.",Architecture,,,,,Window,Glass Window Pane,,,,
 08.09.02,,,,ACG Interpane Glass Window Pane,ACG Interpane,,"Largescale glass window plane sample. Ipasol bright neutral. Composition 6/12/4. Solar Factor: 46%.",Architecture,,,,,Window,Glass Window Pane,,,,
+
 
 
 
