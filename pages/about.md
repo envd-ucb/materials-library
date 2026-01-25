@@ -21,7 +21,7 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
 
-The repository currently features 13 objects from the University of Colorado Boulder's [ENVD Material Library](https://live-ucbdev-environmental-design-material-library.pantheonsite.io/people). 
+The repository currently features 13 objects from the University of Colorado Boulder's [ENVD Material Library](https://live-ucbdev-environmental-design-material-library.pantheonsite.io/). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
