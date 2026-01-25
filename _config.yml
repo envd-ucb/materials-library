@@ -20,12 +20,12 @@ source-code: https://github.com/envd-ucb/materials-library
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Material Library 
+title: ENVD Material Library 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A living archive of materials, curated for creativity at CU Boulder
+tagline: "An open-access library at CU Boulder's Department of Environmental Design"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The Material Library at CU Bolder is an archive for XYZ on GitHub Pages designed for sharing XYZ"
+description: "The Material Library showcases student and faculty explorations in environmental materials, creating a centralized resource for research, teaching, and creative inquiry. At the heart of the library is a robust digital archive that highlights material‑focused projects and makes them accessible to anyone interested in sustainable design and environmental innovation."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Material Library at the ENVD Department, CU Boulder
 
@@ -40,8 +40,8 @@ metadata: demo-metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Material Library"
-# organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "Material Library"
+organization-link: https://live-ucbdev-environmental-design-material-library.pantheonsite.io/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
@@ -49,7 +49,7 @@ metadata: demo-metadata
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+# noindex: false 
 
 ##########
 # BUILD SETTINGS 
